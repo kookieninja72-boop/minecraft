@@ -1,10 +1,3 @@
 # Minecraft Security Guide
 
-## Install
-npm install
-
-## Run
-npm run dev
-
-## Build
-npm run build
+How to secure your minecraft(microsoft) account step by step.
